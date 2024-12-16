@@ -12,3 +12,13 @@ The goal of this project is to create a movie recommendation system that suggest
   A machine learning model is employed to predict user ratings for movies. The model takes into account various features, including movie popularity, vote average, vote count, runtime, revenue, and language. DecisionTreeRegressor is used as the primary model.
 # Data Sources
 The project uses the MovieLens 20M dataset, which consists of 20 million ratings given to 27,000 movies by 138,000 users. The relevant files used are ratings.csv, movies.csv, and links.csv. Additionally, movie details are fetched from The Movie Database (TMDB) using the TMDB API.
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
