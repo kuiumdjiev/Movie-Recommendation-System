@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Начална страница";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-controller="Movie" asp-action="Details" method="get">
+                <input type="text" name="name"  class="form-control" placeholder="Търсене...">
+                <div class="col-md-12 mt-3">
+                    <div id="result-container"></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/home_search.js"></script>

@@ -1,0 +1,60 @@
+/* _content/MRS/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ytuon5zhqg] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  font-size: 1.5rem;
+  letter-spacing: -0.5px;
+}
+
+a[b-ytuon5zhqg] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ytuon5zhqg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ytuon5zhqg], .nav-pills .show > .nav-link[b-ytuon5zhqg] {
+  color: #fff;
+  background-color: var(--secondary-color);
+  border-color: #1861ac;
+}
+
+.navbar-nav[b-ytuon5zhqg] {
+  gap: 1rem;
+}
+
+.border-top[b-ytuon5zhqg] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ytuon5zhqg] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ytuon5zhqg] {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button.accept-policy[b-ytuon5zhqg] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.container-fluid[b-ytuon5zhqg] {
+  padding: 0.5rem 2rem;
+}
+
+.footer[b-ytuon5zhqg] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: normal;
+  padding: 1.5rem 0;
+}

@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\controllers\\api\\collectionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:controllers\\api\\collectionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs\\wwwroot\\js\\home_search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:wwwroot\\js\\home_search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\like_movie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:wwwroot\\js\\like_movie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefan\\AppData\\Local\\Temp\\.vsdbgsrc\\b75b625074adc4301c352674d63247e42b8f3a13ace3d2c1adb6d6d5f8a60b06\\SqlServerModificationCommandBatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\extensions\\probamovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:extensions\\probamovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\extensions\\recaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:extensions\\recaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142743_AddUserIdAsInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D17F3A-9A71-4360-95A1-6F01DD97D8B7}|..\\MRS.Infrastructure\\MRS.Infrastructure.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142229_AddUserIdAsInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D17F3A-9A71-4360-95A1-6F01DD97D8B7}|..\\MRS.Infrastructure\\MRS.Infrastructure.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.infrastructure\\data\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\model\\movie\\detailsmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\contracts\\iloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\views\\movie\\like.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:views\\movie\\like.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4E073237-0048-47B4-8F81-8DD878828E52}|MRS.csproj|solutionrelative:wwwroot\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\service\\loadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7640EF4F-3542-49CC-ACBC-A5B3227747F8}|..\\MRS.Core\\MRS.Core.csproj|c:\\users\\stefan\\desktop\\project\\example\\mrs.core\\model\\movie\\likemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\API\\CollectionApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\CollectionApiController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\API\\CollectionApiController.cs",
+              "RelativeToolTip": "Controllers\\API\\CollectionApiController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:48:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:43:12.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:00:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "like_movie.js",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\like_movie.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\like_movie.js",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\like_movie.js",
+              "RelativeToolTip": "wwwroot\\js\\like_movie.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T18:33:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Service\\MovieService.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Service\\MovieService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:11:49.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:35:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home_search.js",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\home_search.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\home_search.js",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\home_search.js",
+              "RelativeToolTip": "wwwroot\\js\\home_search.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T18:32:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recaptcha.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\Recaptcha.cs",
+              "RelativeDocumentMoniker": "Extensions\\Recaptcha.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\Recaptcha.cs",
+              "RelativeToolTip": "Extensions\\Recaptcha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:30:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlServerModificationCommandBatch.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\AppData\\Local\\Temp\\.vsdbgsrc\\b75b625074adc4301c352674d63247e42b8f3a13ace3d2c1adb6d6d5f8a60b06\\SqlServerModificationCommandBatch.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b75b625074adc4301c352674d63247e42b8f3a13ace3d2c1adb6d6d5f8a60b06\\SqlServerModificationCommandBatch.cs",
+              "ToolTip": "C:\\Users\\Stefan\\AppData\\Local\\Temp\\.vsdbgsrc\\b75b625074adc4301c352674d63247e42b8f3a13ace3d2c1adb6d6d5f8a60b06\\SqlServerModificationCommandBatch.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b75b625074adc4301c352674d63247e42b8f3a13ace3d2c1adb6d6d5f8a60b06\\SqlServerModificationCommandBatch.cs [Read Only]",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAmwH0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:32:15.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAawGoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:39:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250225142743_AddUserIdAsInt.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142743_AddUserIdAsInt.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Infrastructure\\Migrations\\20250225142743_AddUserIdAsInt.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142743_AddUserIdAsInt.cs",
+              "RelativeToolTip": "..\\MRS.Infrastructure\\Migrations\\20250225142743_AddUserIdAsInt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:27:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:21:39.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:56:50.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Contracts\\IMovieService.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Contracts\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Contracts\\IMovieService.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Contracts\\IMovieService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:43:13.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProbaMovie.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ProbaMovie.cs",
+              "RelativeDocumentMoniker": "Extensions\\ProbaMovie.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Extensions\\ProbaMovie.cs",
+              "RelativeToolTip": "Extensions\\ProbaMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:41:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\MRS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:56:18.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:21:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Data\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Infrastructure\\Data\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Data\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\MRS.Infrastructure\\Data\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:49:19.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250225142229_AddUserIdAsInt.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142229_AddUserIdAsInt.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Infrastructure\\Migrations\\20250225142229_AddUserIdAsInt.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Infrastructure\\Migrations\\20250225142229_AddUserIdAsInt.cs",
+              "RelativeToolTip": "..\\MRS.Infrastructure\\Migrations\\20250225142229_AddUserIdAsInt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:22:30.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "search.js",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\search.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\search.js",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\search.js",
+              "RelativeToolTip": "wwwroot\\js\\search.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T18:32:47.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailsMovie.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Model\\Movie\\DetailsMovie.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Model\\Movie\\DetailsMovie.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Model\\Movie\\DetailsMovie.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Model\\Movie\\DetailsMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:43:06.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILoadService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Contracts\\ILoadService.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Contracts\\ILoadService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Contracts\\ILoadService.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Contracts\\ILoadService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:44:40.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:45:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T05:45:56.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Like.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Views\\Movie\\Like.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Like.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\Views\\Movie\\Like.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Like.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T19:17:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "details.js",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\details.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\details.js",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS\\wwwroot\\js\\details.js",
+              "RelativeToolTip": "wwwroot\\js\\details.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T18:33:15.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LikeMovie.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Model\\Movie\\LikeMovie.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Model\\Movie\\LikeMovie.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Model\\Movie\\LikeMovie.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Model\\Movie\\LikeMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:57:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoadService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Service\\LoadService.cs",
+              "RelativeDocumentMoniker": "..\\MRS.Core\\Service\\LoadService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\Project\\Example\\MRS.Core\\Service\\LoadService.cs",
+              "RelativeToolTip": "..\\MRS.Core\\Service\\LoadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:22:35.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model MRS.Core.Model.Movie.DetailsMovie
+
+@{
+    ViewData["Title"] = "Детайли за филм";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <img src="@Model.Img" class="img-fluid rounded shadow mb-4" alt="Movie Image">
+        </div>
+        <div class="col-md-8">
+            <h1 class="mb-3">@Model.Title</h1>
+            @if (User.Identity.IsAuthenticated )
+            {
+                @if(Model.IsAlreadyLiked)
+                {
+                    <p class="text-success">Вече сте оценили този филм с оценка <strong>@Model.Score.ToString("F2")</strong></p>
+                }
+                else
+                {
+                    <p class="lead">Оценка прогнозирана от модела: <strong>@Model.Score.ToString("F2")</strong></p>
+
+                    <a asp-controller="Movie" asp-action="Like" asp-route-id="@Model.Id" class="btn btn-primary mb-3">Оцени</a>
+                }
+
+            }
+            <p class="text-muted">@Model.Overview</p>
+        </div>
+    </div>
+
+    <h2 class="mt-5">Подобни филми</h2>
+    <div class="row">
+        @foreach (var similarMovie in Model.Movies)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@similarMovie.Title</h5>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <p class="text-secondary mb-2">Оценка: <strong>@similarMovie.Score.ToString("F2")</strong></p>
+                        }
+                        <a asp-controller="Movie" asp-action="Details" asp-route-name="@similarMovie.Title" class="btn btn-outline-primary">Виж детайли</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

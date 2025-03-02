@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model MRS.Core.Model.Movie.MoviesPerPageGenre
+<h2 class="mt-5">@Model.Genre</h2>
+<div class="row">
+    @foreach (var movie in Model.Movies)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@movie.Name</h5>
+
+                    <a asp-controller="Movie" asp-action="Details" asp-route-name="@movie.Name" class="btn btn-outline-primary">Виж детайли</a>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-12">
+        <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center">
+                <li class="page-item @(Model.Page == 1 ? "disabled" : "")">
+                    <a class="page-link" asp-controller="Movie" asp-action="Genre" asp-route-genre="@Model.Genre" asp-route-page="@(Model.Page - 1)">Предна</a>
+                </li>
+                @{
+                    int totalPagesToShow = 5; 
+                    int startPage = Math.Max(1, Model.Page - totalPagesToShow / 2);
+                    int endPage = Math.Min(Model.TotalPages, startPage + totalPagesToShow - 1);
+
+                    if (endPage - startPage < totalPagesToShow - 1)
+                    {
+                        startPage = Math.Max(1, endPage - totalPagesToShow + 1);
+                    }
+                }
+
+                @if (startPage > 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Movie" asp-action="Genre" asp-route-genre="@Model.Genre" asp-route-page="1">1</a>
+                    </li>
+                    @if (startPage > 2)
+                    {
+                        <li class="page-item disabled">
+                            <span class="page-link">...</span>
+                        </li>
+                    }
+                }
+
+                @for (int i = startPage; i <= endPage; i++)
+                {
+                    <li class="page-item @(Model.Page == i ? "active" : "")">
+                        <a class="page-link" asp-controller="Movie" asp-action="Genre" asp-route-genre="@Model.Genre" asp-route-page="@i">@i</a>
+                    </li>
+                }
+
+                @if (endPage < Model.TotalPages)
+                {
+                    @if (endPage < Model.TotalPages - 1)
+                    {
+                        <li class="page-item disabled">
+                            <span class="page-link">...</span>
+                        </li>
+                    }
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Movie" asp-action="Genre" asp-route-genre="@Model.Genre" asp-route-page="@Model.TotalPages">@Model.TotalPages</a>
+                    </li>
+                }
+                <li class="page-item @(Model.Page == Model.TotalPages ? "disabled" : "")">
+                    <a class="page-link" asp-controller="Movie" asp-action="Genre" asp-route-genre="@Model.Genre" asp-route-page="@(Model.Page + 1)">Следваща</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>

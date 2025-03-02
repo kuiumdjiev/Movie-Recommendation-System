@@ -1,0 +1,8 @@
+﻿@model MRS.Core.Model.Movie.LikeMovie
+
+<form asp-controller="Movie" asp-action="Like">
+    <p>Оценете филма @Model.Name</p>
+    <input asp-for="Raiting"/>
+    <input value=@Model.Id type="hidden"/>
+    <button type="submit">Оцени</button>
+</form>
